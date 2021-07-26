@@ -1,0 +1,73 @@
+"Patient.no.","Best.RECIST.response","RNA.Sequencing","Resp_NoResp","Progression.Free.Survival..Days.","Overall.Survival..Days.","Progressed","Last.Followup.Status","Sample","PREEDT","Treatment","Sig_Score"
+2,"PD","PRE","No_Response",13,65,"Yes","Dead, melanoma","PD1_2_PRE","PRE","PD1",0.809686099052673
+4,"PD","PRE","No_Response",23,22,"Yes","Dead, melanoma","PD1_4_PRE","PRE","PD1",0.80113424634703
+6,"PD","PRE","No_Response",42,94,"Yes","Dead, melanoma","PD1_6_PRE","PRE","PD1",0.94295205207392
+15,"PD","PRE","No_Response",84,300,"Yes","Dead","PD1_15_PRE","PRE","PD1",0.859780149433388
+16,"PD","PRE","No_Response",84,169,"Yes","Dead, melanoma","PD1_16_PRE","PRE","PD1",0.557972767086207
+19,"SD","PRE","No_Response",125,385,"Yes","Dead, melanoma","PD1_19_PRE","PRE","PD1",0.700143622841468
+30,"SD","PRE","Response",358,581,"Yes","Alive","PD1_30_PRE","PRE","PD1",0.57628067340871
+35,"PR","PRE","Response",586,1091,"Yes","Alive","PD1_35_PRE","PRE","PD1",0.88341536201891
+36,"PR","PRE","Response",590,607,"Yes","Dead, melanoma","PD1_36_PRE","PRE","PD1",0.793394573712811
+44,"PR","PRE","Response",1075,1075,"No","Alive","PD1_44_PRE","PRE","PD1",0.90190122953588
+45,"PR","PRE","Response",1085,1085,"No","Alive","PD1_45_PRE","PRE","PD1",0.839812957429838
+46,"PR","PRE","Response",1098,1098,"No","Alive","PD1_46_PRE","PRE","PD1",0.786694920895224
+49,"CR","PRE","Response",1328,1328,"No","Alive","PD1_49_PRE","PRE","PD1",0.666480613982712
+50,"CR","PRE","Response",1342,1342,"No","Alive","PD1_50_PRE","PRE","PD1",0.731881821378961
+52,"PR","PRE","Response",1553,1553,"No","Alive","PD1_52_PRE","PRE","PD1",0.904526157523741
+53,"CR","PRE","Response",1589,1589,"No","Alive","PD1_53_PRE","PRE","PD1",0.90934879548049
+3,"PD","PRE","No_Response",23,59,"Yes","Dead, melanoma","PD1_3_PRE","PRE","PD1",0.751487187207896
+5,"PD","PRE","No_Response",39,155,"Yes","Dead, melanoma","PD1_5_PRE","PRE","PD1",0.756436220575621
+7,"PD","PRE","No_Response",47,80,"Yes","Dead, melanoma","PD1_7_PRE","PRE","PD1",0.732421701759586
+9,"PD","PRE","No_Response",71,99,"Yes","Dead, melanoma","PD1_9_PRE","PRE","PD1",0.865226391865968
+11,"PD","PRE","No_Response",78,166,"Yes","Dead, melanoma","PD1_11_PRE","PRE","PD1",0.720050015975755
+12,"SD","PRE","No_Response",80,199,"Yes","Dead, melanoma","PD1_12_PRE","PRE","PD1",0.769877691166212
+14,"PD","PRE","No_Response",83,993,"Yes","Dead, melanoma","PD1_14_PRE","PRE","PD1",0.825288510308523
+18,"PD","PRE","No_Response",100,228,"Yes","Dead, melanoma","PD1_18_PRE","PRE","PD1",0.665654260020334
+21,"SD","PRE","No_Response",166,551,"Yes","Dead, melanoma","PD1_21_PRE","PRE","PD1",0.737395182907851
+23,"SD","PRE","Response",191,191,"Yes","Dead, melanoma","PD1_23_PRE","PRE","PD1",0.697827178354032
+27,"PR","PRE","Response",314,1067,"Yes","Dead, melanoma","PD1_27_PRE","PRE","PD1",0.679257650210319
+34,"PR","PRE","Response",544,878,"Yes","Dead, melanoma","PD1_34_PRE","PRE","PD1",0.882323105401813
+38,"PR","PRE","Response",755,1547,"Yes","Alive","PD1_38_PRE","PRE","PD1",0.753868906309868
+40,"PR","PRE","Response",845,845,"No","Alive","PD1_40_PRE","PRE","PD1",0.874167923990902
+42,"CR","PRE","Response",891,891,"No","Alive","PD1_42_PRE","PRE","PD1",0.863071658797633
+54,"PR","PRE","Response",1603,1603,"No","Alive","PD1_54_PRE","PRE","PD1",0.82826842870547
+8,"PD","PREandEDT","No_Response",58,58,"Yes","Dead, melanoma","PD1_8_PRE","PRE","PD1",0.63880899288061
+10,"PD","PREandEDT","No_Response",76,551,"Yes","Alive","PD1_10_PRE","PRE","PD1",0.708222867077437
+29,"SD","PREandEDT","Response",335,825,"Yes","Dead, melanoma","PD1_29_PRE","PRE","PD1",0.758287225121077
+47,"PR","PREandEDT","Response",1174,1174,"No","Alive","PD1_47_PRE","PRE","PD1",0.810225147493822
+48,"PR","PREandEDT","Response",1189,1189,"No","Alive","PD1_48_PRE","PRE","PD1",0.884144182901221
+13,"PD","PREandEDT","No_Response",82,96,"Yes","Dead, melanoma","PD1_13_PRE","PRE","PD1",0.789975641393778
+17,"PD","PREandEDT","No_Response",96,258,"Yes","Dead, melanoma","PD1_17_PRE","PRE","PD1",0.810375771049957
+25,"PR","PREandEDT","Response",271,897,"Yes","Dead, melanoma","PD1_25_PRE","PRE","PD1",0.628244876235935
+41,"PR","PREandEDT","Response",870,886,"Yes","Alive","PD1_41_PRE","PRE","PD1",0.693320000849941
+2,"PD","PRE","No_Response",34,530,"Yes","Alive","ipiPD1_2_PRE","PRE","ipiPD1",0.885638371489142
+6,"PD","PRE","No_Response",41,108,"Yes","Dead, melanoma","ipiPD1_6_PRE","PRE","ipiPD1",0.826053152014578
+7,"PR","PRE","Response",81,169,"Yes","Alive","ipiPD1_7_PRE","PRE","ipiPD1",0.789626626336601
+8,"PD","PRE","No_Response",81,637,"Yes","Alive","ipiPD1_8_PRE","PRE","ipiPD1",0.797906180327583
+10,"PD","PRE","No_Response",81,176,"Yes","Dead, melanoma","ipiPD1_10_PRE","PRE","ipiPD1",0.543979273536294
+12,"PD","PRE","No_Response",82,293,"Yes","Alive","ipiPD1_12_PRE","PRE","ipiPD1",0.831669502919311
+14,"SD","PRE","No_Response",123,691,"Yes","Alive","ipiPD1_14_PRE","PRE","ipiPD1",0.724392328813196
+15,"SD","PRE","No_Response",152,660,"Yes","Dead, melanoma","ipiPD1_15_PRE","PRE","ipiPD1",0.746357913735451
+17,"PR","PRE","Response",196,196,"No","Alive","ipiPD1_17_PRE","PRE","ipiPD1",0.764022491856856
+20,"SD","PRE","Response",386,538,"Yes","Alive","ipiPD1_20_PRE","PRE","ipiPD1",0.944302960006736
+21,"PR","PRE","Response",410,410,"No","Alive","ipiPD1_21_PRE","PRE","ipiPD1",0.840377280319841
+23,"PR","PRE","Response",506,506,"No","Alive","ipiPD1_23_PRE","PRE","ipiPD1",0.755988242435091
+24,"PR","PRE","Response",509,1203,"Yes","Alive","ipiPD1_24_PRE","PRE","ipiPD1",0.698164956971764
+25,"SD","PRE","Response",518,518,"No","Dead, melanoma","ipiPD1_25_PRE","PRE","ipiPD1",0.842393770047534
+26,"CR","PRE","Response",544,544,"No","Alive","ipiPD1_26_PRE","PRE","ipiPD1",0.792529649753413
+32,"CR","PRE","Response",597,597,"No","Alive","ipiPD1_32_PRE","PRE","ipiPD1",0.786156539202133
+34,"CR","PRE","Response",623,623,"No","Alive","ipiPD1_34_PRE","PRE","ipiPD1",0.784736196709616
+37,"PR","PRE","Response",637,637,"No","Alive","ipiPD1_37_PRE","PRE","ipiPD1",0.850511458386924
+44,"PR","PRE","Response",695,695,"No","Alive","ipiPD1_44_PRE","PRE","ipiPD1",0.652037769765239
+45,"CR","PRE","Response",721,721,"No","Alive","ipiPD1_45_PRE","PRE","ipiPD1",0.780019223270756
+46,"CR","PRE","Response",721,721,"No","Alive","ipiPD1_46_PRE","PRE","ipiPD1",0.891919736291018
+47,"PR","PRE","Response",732,732,"No","Alive","ipiPD1_47_PRE","PRE","ipiPD1",0.789865349905048
+49,"CR","PRE","Response",775,775,"No","Alive","ipiPD1_49_PRE","PRE","ipiPD1",0.74037562199841
+50,"PR","PRE","Response",904,904,"No","Alive","ipiPD1_50_PRE","PRE","ipiPD1",0.762223621826704
+1,"PD","PREandEDT","No_Response",15,689,"Yes","Alive","ipiPD1_1_PRE","PRE","ipiPD1",0.782435550435459
+13,"PR","PREandEDT","Response",108,357,"Yes","Dead, melanoma","ipiPD1_13_PRE","PRE","ipiPD1",0.804897578155485
+19,"SD","PREandEDT","Response",301,635,"Yes","Alive","ipiPD1_19_PRE","PRE","ipiPD1",0.864947513980686
+27,"CR","PREandEDT","Response",546,546,"No","Alive","ipiPD1_27_PRE","PRE","ipiPD1",0.759167108322653
+33,"PR","PREandEDT","Response",609,609,"No","Alive","ipiPD1_33_PRE","PRE","ipiPD1",0.797143159877159
+35,"CR","PREandEDT","Response",627,627,"No","Alive","ipiPD1_35_PRE","PRE","ipiPD1",0.875097797005857
+36,"CR","PREandEDT","Response",637,637,"No","Alive","ipiPD1_36_PRE","PRE","ipiPD1",0.755748268720727
