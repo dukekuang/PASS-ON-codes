@@ -37,8 +37,9 @@
   
 4. Other Public Signatures:
    > IMPRES: https://github.com/noamaus/IMPRES-codes
-   
+
    > CIBERSORT: https://cibersort.stanford.edu/index.php
    
    
-  
+5. Licenses:
+  >  GNU General Public License (GPL)
