@@ -1,0 +1,36 @@
+"Patient.ID","irRC","Hetergeneous.response","Baseline.biopsy","Baseline.biopsy.site","Treatment","Start.of.treatment","On.treatment.Biopsy","On.treatment.biopsy.site","Overall.survival..months.","Vital.status","Resp_NoResp_irRC","Resp_NoResp_ResPROG","Pt_ID","Need","Need2","Sig_Score"
+"Patient 09","CR",NA,NA,NA,"Pembrolizumab",42009,"Acquired PROG","Breast",46.8,"Alive","Response","No_Response","Pt_9_PROG","N","N",0.310909643230029
+"Patient 10","CR",NA,NA,NA,"Pembrolizumab",41200,"Acquired PROG","LN",66.4,"Alive","Response","No_Response","Pt_10_PROG","N","N",0.178135640211586
+"Patient 21","PR",NA,"Yes","LN","Pembrolizumab",41676,"Acquired PROG","Lung",50.8,"Alive","Response","No_Response","Pt_21_PROG","N","N",0.234324696359713
+"Patient 22","PR",NA,"Yes","SC","Pembrolizumab",41564,"Responding","Bowel",35.1,"Dead","Response","Response","Pt_22_RES","Y","Y",0.239309599581519
+"Patient 23","PR",NA,"Yes","SC","Pembrolizumab",41960,"Responding","SC",41.4,"Alive","Response","Response","Pt_23_RES","Y","Y",0.440995507398751
+"Patient 24","PR","Yes","Yes","LN","Pembrolizumab",41037,"Acquired PROG","LN, spine",71.8,"Alive","Response","No_Response","Pt_24_PROG","N","N",0.166738331624252
+"Patient 24","PR","Yes","Yes","LN","Pembrolizumab",41037,"Responding","LN, spine",71.8,"Alive","Response","Response","Pt_24_RES","Y","Y",0.394714243161609
+"Patient 25","PR",NA,NA,NA,"Pembrolizumab",41940,"Acquired PROG","Brain",22.2,"Dead","Response","No_Response","Pt_25_PROG","N","N",0.197566295031813
+"Patient 26","PR",NA,NA,NA,"Pembrolizumab",41593,"Acquired PROG","LN",53.5,"Alive","Response","No_Response","Pt_26_PROG","N","N",0.168184926045052
+"Patient 29","SD",NA,"Yes","SC","Nivolumab",41886,"Responding","SC",29.5,"Dead","No_Response","Response","Pt_29_RES","Y","Y",0.324016103517356
+"Patient 30","SD","Yes",NA,NA,"Nivolumab",42160,"Innate PROG","Brain",11.2,"Dead","No_Response","No_Response","Pt_30_PROG","Y","Y",0.151690196069237
+"Patient 31","SD","Yes","Yes","SC","Pembrolizumab",41214,"Innate PROG","SC",27.1,"Dead","No_Response","No_Response","Pt_31_PROG1","Y","Y",0.0978001478217803
+"Patient 31","SD","Yes","Yes","SC","Pembrolizumab",41214,"Innate PROG","SC",27.1,"Dead","No_Response","No_Response","Pt_31_PROG2","N","N",0.211253940659073
+"Patient 31","SD","Yes","Yes","SC","Pembrolizumab",41214,"Innate PROG","SC",27.1,"Dead","No_Response","No_Response","Pt_31_PROG3","N","N",0.248250511787194
+"Patient 31","SD","Yes","Yes","SC","Pembrolizumab",41214,"Innate PROG","SC",27.1,"Dead","No_Response","No_Response","Pt_31_PROG4","N","N",0.111781713008673
+"Patient 44","PD",NA,"Yes","SC","Nivolumab",41995,"Innate PROG","Brain",40.3,"Alive","No_Response","No_Response","Pt_44_PROG1","Y","Y",0.286920633638842
+"Patient 44","PD",NA,"Yes","SC","Nivolumab",41995,"Acquired PROG","SC",40.3,"Alive","No_Response","No_Response","Pt_44_PROG2","N","N",0.233525424771253
+"Patient 45","PD","Yes","Yes","LN","Pembrolizumab",42198,"Responding","LN",9.2,"Dead","No_Response","Response","Pt_45_RES","Y","Y",0.370909708672931
+"Patient 46","PD","Yes","Yes","SC","Pembrolizumab",42430,"Acquired PROG","SC",26,"Alive","No_Response","No_Response","Pt_46_PROG1","N","N",0.404807596836902
+"Patient 46","PD","Yes","Yes","SC","Pembrolizumab",42430,"Acquired PROG","SC",26,"Alive","No_Response","No_Response","Pt_46_PROG2","N","N",0.118499254119667
+"Patient 47","PD",NA,"Yes","SC","Pembrolizumab",41193,"Innate PROG","SC",5.5,"Dead","No_Response","No_Response","Pt_47_PROG","Y","Y",0.321722378671572
+"Patient 48","PD",NA,"Yes","LN","Pembrolizumab",42507,"Innate PROG","SC",23.4,"Alive","No_Response","No_Response","Pt_48_PROG1","Y","Y",0.361070236545227
+"Patient 48","PD",NA,"Yes","LN","Pembrolizumab",42507,"Innate PROG","LN",23.4,"Alive","No_Response","No_Response","Pt_48_PROG2","Y","N",0.111044027738049
+"Patient 49","PD","Yes","Yes","LN","Pembrolizumab",41865,"Innate PROG","SC",44.5,"Alive","No_Response","No_Response","Pt_49_PROG","Y","Y",0.351022876598866
+"Patient 50","PD","Yes",NA,NA,"Nivolumab",42089,"Acquired PROG","Brain",18.4,"Dead","No_Response","No_Response","Pt_50_PROG","N","N",0.319181787790273
+"Patient 51","PD",NA,NA,NA,"Pembrolizumab",41683,"Innate PROG","SC",50.5,"Alive","No_Response","No_Response","Pt_51_PROG","Y","Y",0.351575416252058
+"Patient 52","PD","Yes",NA,NA,"Pembrolizumab",42247,"Innate PROG","SC",32,"Alive","No_Response","No_Response","Pt_52_PROG1","Y","Y",0.302053397104002
+"Patient 52","PD","Yes",NA,NA,"Pembrolizumab",42247,"Innate PROG","Spleen",32,"Alive","No_Response","No_Response","Pt_52_PROG2","Y","N",0.243150678106401
+"Patient 53","PD",NA,NA,NA,"Nivolumab",42361,"Responding","SC",28.2,"Alive","No_Response","Response","Pt_53_RES","Y","Y",0.325677712311459
+"Patient 53","PD",NA,NA,NA,"Nivolumab",42361,"Innate PROG","brain",28.2,"Alive","No_Response","No_Response","Pt_53_PROG1","Y","N",0.307993880377997
+"Patient 53","PD",NA,NA,NA,"Nivolumab",42361,"innate PROG","brain",28.2,"Alive","No_Response","No_Response","Pt_53_PROG2","N","N",0.229529123329574
+"Patient 54","PD","Yes",NA,NA,"Nivolumab",42179,"Innate PROG","Bowel",34.2,"Alive","No_Response","No_Response","Pt_54_PROG1","Y","Y",0.240098509205358
+"Patient 54","PD","Yes",NA,NA,"Nivolumab",42179,"Innate PROG","brain",34.2,"Alive","No_Response","No_Response","Pt_54_PROG2","Y","N",0.258643465091549
+"Patient 54","PD","Yes",NA,NA,"Nivolumab",42179,"Acquired PROG","SC",34.2,"Alive","No_Response","No_Response","Pt_54_PROG3","N","N",0.264641111977218
+"Patient 55","PD","Yes",NA,NA,"Pembrolizumab",41450,"Innate PROG","SC",13.4,"Dead","No_Response","No_Response","Pt_55_PROG","Y","Y",0.271125284333562
