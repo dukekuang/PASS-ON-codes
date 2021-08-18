@@ -288,7 +288,7 @@ DE_Volcano <- function(DEGs_res, p.value = 0.05, FC.value = 1, xlimit = c(-10,10
                         y = 'pvalue',
                         pointSize = pointsize, #2.5
                         labSize = labsize, #4.5
-                        caption = paste("FC cutoff ", FC," ; p-value cutoff ", p,sep=''),
+                        caption = paste("Cutoff: |Log2fold change| > ", FC," ; P-value < ", p,sep=''),
                         captionLabSize = 15,
                         colCustom = keyvals,
                         colAlpha = 0.75,
@@ -321,6 +321,8 @@ read_rnk <- function(rank_path){
 
 plotGseaTable <- function(pathways, stats, fgseaRes, gseaParam=1,
                           #colwidths=c(5, 3, 0.8, 1.2, 1.2),
+                          pathway_x_point = 0.65,
+                          pathway_title_x_point = 0.80,
                           colwidths=c(5, 3, 0.8, 1.2, 1.2, 1.2),
                           render=TRUE) {
   
@@ -364,8 +366,13 @@ plotGseaTable <- function(pathways, stats, fgseaRes, gseaParam=1,
       pn = "CASPASE_ACTIVATION_VIA_DEATH_RECEPTORS\n_IN_THE_PRESENCE_OF_LIGAND"
     }
     
+    
+    pn <- gsub('_',' ',pn)
+    print(pn)
+    
     list(
-      textGrob(pn, just="right", x=unit(0.95, "npc"),check.overlap=TRUE,gp = gpar(fontsize = 4.5)), #pathway names
+      #textGrob(pn, just="right", x=unit(0.95, "npc"),check.overlap=TRUE,gp = gpar(fontsize = 4.5)), #pathway names
+      textGrob(pn, just="center", x=unit(pathway_x_point, "npc"),check.overlap=TRUE,gp = gpar(fontsize = 4.5)), #pathway names
       ggplot() +
         geom_segment(aes(x=p, xend=p,
                          y=0, yend=statsAdj[p]),
@@ -412,7 +419,8 @@ plotGseaTable <- function(pathways, stats, fgseaRes, gseaParam=1,
     )
   
   grobs <- c(
-    list(textGrob("Pathway", x=unit(0.80, "npc"),check.overlap=TRUE,just="right",gp = gpar(fontsize = 4.5))),
+    #list(textGrob("Pathway", x=unit(0.80, "npc"),check.overlap=TRUE,just="right",gp = gpar(fontsize = 4.5))),
+    list(textGrob("Pathway", x=unit(pathway_title_x_point, "npc"),check.overlap=TRUE,just="right",gp = gpar(fontsize = 4.5))),
     lapply(c("Gene ranks", "NES", "P-value","FDR","Size"), function(x)textGrob(x,x=unit(0.5, "npc"),check.overlap=TRUE,gp = gpar(fontsize = 4.5))),
     #lapply(c("Gene ranks", "NES", "pval", "padj"), function(x)textGrob(x,x=unit(0.5, "npc"),check.overlap=TRUE,gp = gpar(fontsize = 9))),
     unlist(ps, recursive = FALSE),
